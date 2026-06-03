@@ -7,6 +7,9 @@ export const metadata = {
   title: "Mr Electric Mobility — Authorised Sokudo Electric Dealer",
   description:
     "Mr Electric Mobility is an authorised distributor of Sokudo Electric India. See the full range of Sokudo electric scooters — specs, prices and test rides.",
+  verification: {
+    google: "6ln8hNcazBefS3zMpr30IZIbInqRAoojSyR9vRFin68",
+  },
 };
 
 export default function RootLayout({ children }) {
