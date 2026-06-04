@@ -168,7 +168,7 @@ export default function ProductDetail() {
               )}
 
               <div className="detail-foot">
-                <p><IconCheck width={18} height={18} /> Authorised Sokudo dealer · genuine warranty · service support</p>
+                <p><IconCheck width={18} height={18} /> Authorised Sokudo distributor · genuine warranty · service support</p>
                 <Link href="/#contact" className="btn btn-primary">Enquire about the {product.name}</Link>
               </div>
             </>
