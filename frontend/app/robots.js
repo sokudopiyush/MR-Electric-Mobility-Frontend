@@ -1,4 +1,4 @@
-const SITE_URL = (process.env.NEXT_PUBLIC_SITE_URL || "https://www.mrelectricmobility.com").replace(/\/$/, "");
+const SITE_URL = "https://mrelectricmobility.com";
 
 export default function robots() {
   return {
